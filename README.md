@@ -74,5 +74,5 @@ determinantes del crecimiento de largo plazo.
 
 ## Autor
 
-[Tu nombre] — Economista y Data Scientist
-[Tu LinkedIn] | [Tu email]
+Gabriel López del Cerro — Economista y Data Scientist
+https://www.linkedin.com/in/gabriellopezdelcerro
